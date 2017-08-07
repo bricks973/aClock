@@ -3,6 +3,8 @@
 
 #include <QMainWindow>
 #include <QTimer>
+#include <QMediaPlayer>
+
 
 namespace Ui {
 class MainWindow;
